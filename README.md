@@ -9,7 +9,14 @@ Painel criado unicamente pra raids de servidor Discord.
 requirements
 
 pip install discord.py==2.4.0
+
+
 pip install colorama==0.4.6
+
+
 pip install requests
+
+
 pip install aiohttp
+
 
