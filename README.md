@@ -1,21 +1,5 @@
+# RAID PAINEL SAFHIRA 
+
 Painel criado unicamente pra raids de servidor Discord.
 
- O que ele faz
-
-Executa raids automáticas em servidores
-
-Gerencia milhares de bots online
-
-Spamma, clona e destrói canais
-
-Atualização do painel em tempo real
-
-🛠 Requisitos
-
-Python 3.10+
-
-Dependências: discord.py, colorama, asyncio
-
-Windows/Linux
- # RAID
- 
+<img width="974" height="349" alt="image" src="https://github.com/user-attachments/assets/36e66fe0-a2d9-4794-b73e-4dd56c02d9c3" />
