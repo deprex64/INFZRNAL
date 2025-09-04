@@ -17,3 +17,5 @@ Python 3.10+
 Dependências: discord.py, colorama, asyncio
 
 Windows/Linux
+ # RAID
+ 
