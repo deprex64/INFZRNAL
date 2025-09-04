@@ -9,10 +9,10 @@ from discord.ext import commands
 
 init(autoreset=True)
 
-VERSION = 'V1 / INFZRNAL'
+VERSION = 'V1 '
 users = 1
-raids_feitos = 9
-bots_online = 9000
+raids_feitos = 0
+bots_online = 1
 criadores = 1
 
 def clear():
@@ -141,7 +141,7 @@ async def painel_menu(bot, guild_id, user_name):
             await banir_todos(guild)
             raids_feitos += 1
         elif escolha == "11":
-            print(Fore.BLUE + "Créditos: Black- / INFZRNAL")
+            print(Fore.BLUE + "Créditos: Black- ")
             input("ENTER para voltar...")
         elif escolha == "12":
             print(Fore.BLUE + "Saindo do painel...")
@@ -166,3 +166,4 @@ if __name__ == "__main__":
     clear()
     token = input(Fore.BLUE + "DIGITE O TOKEN: ").strip()
     bot.run(token)
+
